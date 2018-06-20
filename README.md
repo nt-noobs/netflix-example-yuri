@@ -24,7 +24,7 @@ http://localhost:8080/h2-console
 <ul>Criar Artista</ul>
 <ul>Criar Filme</ul>
 <ul>Criar Elenco</ul>
-<ul>Xriar Classificação por Idade</ul>
+<ul>Criar Classificação por Idade</ul>
 <ul>Criar Perfil de Usuário</ul>
 
 
