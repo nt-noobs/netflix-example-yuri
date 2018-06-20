@@ -16,7 +16,7 @@ http://localhost:8080/h2-console
 
 <ul>Step 1 - Abrir o terminal de acesso ao GIT.</ul>
 <ul>Step 2 - Criar um "bare" clone a partir do repositório.</ul>
-git clone --bare https://github.com/nt-noobs/default-system.git
+git clone --bare https://github.com/nt-noobs/netflix-example.git
 <ul>Step 3 - Acesse o repositório clonado.</ul>
 default-system.git
 <ul>Step 4 - Agora no GITHUB, crie um novo resitório clicando no botão "New" em "https://github.com/nt-noobs". 
